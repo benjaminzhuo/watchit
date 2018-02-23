@@ -1,0 +1,19 @@
+{
+  "name": "watchit",
+  "version": "1.0.0",
+  "description": "WATCH IT MAN THE PRICES ARE HOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminzhuo/watchit.git"
+  },
+  "author": "jiayue benjamin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminzhuo/watchit/issues"
+  },
+  "homepage": "https://github.com/benjaminzhuo/watchit#readme"
+}
